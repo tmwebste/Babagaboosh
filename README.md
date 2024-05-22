@@ -1,8 +1,10 @@
+CREDIT: DOUGDOUG
+
 # Babagaboosh
 Simple app that lets you have a verbal conversation with OpenAi's GPT 4.
 Written by DougDoug. Feel free to use this for whatever you want! Credit is appreciated but not required.
 
-If you would like a crappy video explanation of this project, I made a video covering the basics here: https://www.youtube.com/watch?v=vYE1rkIMj9w
+If you would like a crappy video explanation of this project, DougDoug made a video covering the basics here: https://www.youtube.com/watch?v=vYE1rkIMj9w
 
 ## SETUP:
 1) This was written in Python 3.9.2. Install page here: https://www.python.org/downloads/release/python-392/
